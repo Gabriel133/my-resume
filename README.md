@@ -1,2 +1,2 @@
-# my-resume
+# resume
 This is my resume web version.
